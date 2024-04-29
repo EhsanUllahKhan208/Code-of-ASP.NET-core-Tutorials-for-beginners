@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bulkybook",
+    "\\bulkybook\\bulkybookweb",
+    "\\bulkybook\\bulkybookweb\\Data"
+  ],
+  "SelectedNode": "\\bulkybook\\bulkybookweb\\Data\\ApplicationDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}

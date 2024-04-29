@@ -1,0 +1,49 @@
+/* _content/bulkybookweb/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ekqh96hhjo] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ekqh96hhjo] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ekqh96hhjo] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ekqh96hhjo], .nav-pills .show > .nav-link[b-ekqh96hhjo] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ekqh96hhjo] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ekqh96hhjo] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ekqh96hhjo] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ekqh96hhjo] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ekqh96hhjo] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
